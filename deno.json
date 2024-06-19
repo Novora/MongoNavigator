@@ -1,0 +1,6 @@
+{
+    "tasks": {
+        "build": "npm run build && deno run --allow-env --allow-read --allow-net build/index.js",
+        "dev": "npm run dev"
+    }
+}
