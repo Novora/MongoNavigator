@@ -1,38 +1,24 @@
-# create-svelte
+# Mongo Navigator
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+**Mongo Navigator: The Open-Source MongoDB Exploration Tool**
 
-## Creating a project
+Mongo Navigator is a free/libre tool for managing MongoDB databases, offering an intuitive interface and robust features inspired by the flagship Compass UI.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Philosophy
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+1. **Free/Libre Software**
+   - MongoNavigator is dedicated to the principles of free and libre software, ensuring that users have the freedom to use, study, modify, and distribute the software.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+2. **Closely Resembles Compass UI**
+   - MongoNavigator is designed to closely resemble the user-friendly and familiar interface of the flagship Compass UI, providing a seamless and intuitive experience for users.
 
-## Developing
+3. **Web App Instead of Local App**
+   - Unlike traditional local applications, MongoNavigator is a Progressive Web App (PWA), offering the flexibility and accessibility of a web-based solution.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## License
 
-```bash
-npm run dev
+This program uses the GNU AGPLv3 or later license. For more details, see the [LICENSE.md](LICENSE.md) file.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+---
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Enjoy using MongoNavigator for all your MongoDB management needs!
