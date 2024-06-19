@@ -15,6 +15,14 @@ Mongo Navigator is a free/libre tool for managing MongoDB databases, offering an
 3. **Web App Instead of Local App**
    - Unlike traditional local applications, MongoNavigator is a Progressive Web App (PWA), offering the flexibility and accessibility of a web-based solution.
 
+## Getting started
+
+1. Install dependencies
+`bun install`
+
+2. Start dev environment:
+`bun run dev`
+
 ## License
 
 This program uses the GNU AGPLv3 or later license. For more details, see the [LICENSE.md](LICENSE.md) file.
