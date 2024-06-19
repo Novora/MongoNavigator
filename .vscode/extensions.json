@@ -1,7 +1,4 @@
 {
-  "recommendations": [
-    "denoland.vscode-deno",
-    "bradlc.vscode-tailwindcss",
-    "streetsidesoftware.code-spell-checker"
-  ]
+  "recommendations": ["astro-build.astro-vscode"],
+  "unwantedRecommendations": []
 }
